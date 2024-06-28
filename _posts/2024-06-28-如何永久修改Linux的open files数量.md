@@ -10,7 +10,7 @@ vim /etc/security/limits.conf
 
 \*hard nofile 65536
 
-![image-20240628113132609](G:\program-keep.github.io\img\2024-06-28\image-20240628113132609.png)
+![image-20240628113132609](https://raw.githubusercontent.com/program-keep/program-keep.github.io/main/img/2024-06-28/image-20240628113132609.png)
 
 3.保存
 
@@ -20,7 +20,7 @@ vim /etc/security/limits.conf
 
 ulimit -a 
 
-![image-20240628113212023](G:\program-keep.github.io\img\2024-06-28\image-20240628113212023.png)
+![image-20240628113212023](https://raw.githubusercontent.com/program-keep/program-keep.github.io/main/img/2024-06-28/image-20240628113212023.png)
 
 证明已修改成功
 
